@@ -1,2 +1,2 @@
 # verify
-a verification code plugin for PlutoMC.
+a verification code plugin.
