@@ -1,0 +1,14 @@
+name: verify
+version: '1.0.0'
+main: top.plutomc.verify.Verify
+api-version: 1.19
+authors: [ GerryYuu ]
+website: plutomc.top
+commands:
+  verify:
+    permission: verify.command
+permissions:
+  verify:
+    children:
+      command: { }
+      bypass: { }
